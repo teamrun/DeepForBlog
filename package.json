@@ -1,0 +1,15 @@
+{
+  "name": "DeepForBlog",
+  "version": "0.0.1",
+  "description": "deep research for blog/post",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "deep",
+    "blog"
+  ],
+  "author": "chenllos",
+  "license": "wtfpl"
+}
